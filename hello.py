@@ -1,3 +1,9 @@
+def add_two_numbers(a,b):
+	return a+b
+result = add_two_numbers(5.3)
+print(result)
+
+
 for i in range(5):
    if i%2 == 0:
 	result = i + 10

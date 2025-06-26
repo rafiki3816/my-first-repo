@@ -1,6 +1,6 @@
-def add_two_numbers(a,b):
+def adder_two_numbers(a,b):
 	return a+b
-result = add_two_numbers(5.3)
+result = adder_two_numbers(5.3)
 print(result)
 
 
